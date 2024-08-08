@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+m<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -76,8 +76,7 @@
     </form>
 </div>
 
-</body>
-</html>
+
 <?php
 // process_payment.php
 
@@ -97,3 +96,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     echo "Invalid request method.";
 }
 ?>
+</body>
+</html>
