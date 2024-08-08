@@ -47,7 +47,7 @@
 
 <div class="payment-form">
     <h2>Payment Form</h2>
-    <form action="process_payment.php" method="post">
+    <form action="" method="post">
         <div class="form-group">
             <label for="name">Name on Card:</label>
             <input type="text" id="name" name="name" required>
